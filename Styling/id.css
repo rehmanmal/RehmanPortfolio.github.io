@@ -1,0 +1,10 @@
+#element{
+    color: rgb(170, 107, 228);
+}
+
+#image-top{
+    width: 23px;
+    position: relative;
+    top: -32px;
+    left: -9px;
+}
